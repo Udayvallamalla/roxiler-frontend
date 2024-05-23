@@ -30,9 +30,4 @@ To use the frontend application, follow the instructions below:
 2. Fetches data from the created API to populate the statistics box.
 ## Transactions Bar Chart
 1. Displays a bar chart showing the price range and the number of items in that range for the selected month.
-2. Applies the selected month from the dropdown (above the table) to fetch data from the API.
-
-Enjoy using the product transaction management system!
-
-## Deployment
-The frontend application is deployed and can be accessed at [https://vijays-roxiler.onrender.com/](https://vijays-roxiler.onrender.com/).
+2. Applies the selected month from the dropdown (above the table) to fetch data from the API
